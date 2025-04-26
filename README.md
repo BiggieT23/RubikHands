@@ -1,4 +1,4 @@
-# RubikHand – Learn the Rubik’s Cube Through Sign Language
+# RubikHand – Learn the Rubik’s Cube Through South African Sign Language 
 
 **RubikHand** is a visual-first, inclusive simulator and tutorial platform that teaches how to solve the Rubik’s Cube using **non-algorithmic intuition** combined with **South African Sign Language (SASL)**.
 
