@@ -1,4 +1,4 @@
-# 🧩 RubikHand - Rubik’s Cube in South African Sign Language[SASL :) ]
+# 🧩 RubikHand - Rubik’s Cube in South African Sign Language[SASL]
 
 **RubikHand** is a project to teach the Rubik’s Cube using **South African Sign Language (SASL)** and **non-algorithmic solving**.  
 It is made for Deaf learners who want to understand the cube without hard formulas.
